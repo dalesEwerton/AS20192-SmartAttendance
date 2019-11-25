@@ -10,7 +10,7 @@ O Smart Attendance tem um objetivo de ser um sistema de controle de frequência 
   [Clique aqui para acessar o documento em PDF](https://github.com/dalesEwerton/AS20192-SmartAttendance/blob/master/abertura/Smart%20Attendance%20-%20Termo%20de%20abertura.pdf)
   
 ## Elicitação e Documentação de requisitos
-  (Adicionar pasta e linkar aqui)
+  [Clique aqui para acessar o documento em PDF](https://github.com/dalesEwerton/AS20192-SmartAttendance/blob/master/requisitos/Smart%20Attendance%20-%20Requisitos.pdf)
   
 ## Diagramas de Atividades UML
   (Adicionar pasta e linkar aqui)
