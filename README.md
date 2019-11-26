@@ -33,4 +33,4 @@ O Smart Attendance tem um objetivo de ser um sistema de controle de frequência 
   * [Versão para Professores](https://www.fluidui.com/editor/live/preview/cF91SzRySXpYenp1VDJYTWJQd0w5N05IVUJPTldVMVQ4eA==)
 
 ## Slides para Apresentação
-  (Linkar aqui)
+  [Clique para acessar os slides da apresentação](https://docs.google.com/presentation/d/1MCIVbwM1VaqI17xpJIWMftSx3AN0FDWdr8SD3TxEJIE/edit?usp=sharing)
