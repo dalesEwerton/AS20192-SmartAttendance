@@ -19,7 +19,7 @@ O Smart Attendance tem um objetivo de ser um sistema de controle de frequência 
   
   * [Clique para acessar o Diagrama de Controle de Frequência](https://github.com/dalesEwerton/AS20192-SmartAttendance/blob/master/diagramas_atividade/controle%20de%20frequencia.png)
   
-  * [Clique para acessar o Diagrama de Logout de Associar Dispositivo](https://github.com/dalesEwerton/AS20192-SmartAttendance/blob/master/diagramas_atividade/associar%20dispositivo.jpeg)
+  * [Clique para acessar o Diagrama de Associar Dispositivo](https://github.com/dalesEwerton/AS20192-SmartAttendance/blob/master/diagramas_atividade/associar%20dispositivos.jpeg)
   
   * [Clique para acessar o Diagrama de Login de Professor/Aluno](https://github.com/dalesEwerton/AS20192-SmartAttendance/blob/master/diagramas_atividade/login.png)
   
